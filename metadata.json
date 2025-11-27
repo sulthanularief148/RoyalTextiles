@@ -1,0 +1,8 @@
+{
+  "name": "BusyTextile AI",
+  "description": "A comprehensive textile shop management system featuring POS, Inventory Management, and Gemini-powered AI tools for product analysis and customer assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
